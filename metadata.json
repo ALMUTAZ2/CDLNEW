@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Balance Algorithm for Meter Distribution",
+  "description": "An intelligent algorithm for balanced distribution of electrical meters on transformers and breakers, ensuring load does not exceed 80% per transformer. The interface is in Arabic.",
+  "requestFramePermissions": []
+}
